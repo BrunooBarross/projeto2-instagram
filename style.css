@@ -466,8 +466,8 @@ footer{
         width: 100vw;        
         align-items: center;        
         margin: 0;
-        padding: 0;
-        overflow-x: scroll;
+        padding: 0;        
+        /*overflow-x: scroll;*/
         border: 0;    
     }
     #seta-stories{
