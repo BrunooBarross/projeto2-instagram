@@ -117,7 +117,7 @@ body{
     flex-direction: column;
     width: 200px;
     height: 90px;      
-    background-image: url(/img/stories_background.png);
+    background-image: url(img/stories_background.png);
     background-size: 102%;
     background-repeat: no-repeat;
     margin-left: 15px;
