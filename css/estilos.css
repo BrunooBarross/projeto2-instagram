@@ -192,6 +192,8 @@ nav ion-icon {
 /* stories */
 
 .stories-container {
+  width: 614px;
+  height: 118px;
   background-color: #FAFAFA;
   display: flex;
   align-items: center;
@@ -352,8 +354,6 @@ footer {
   }
 
   .stories-container {
-    width: 614px;
-    height: 118px;
     background-color: white;
   }
 
@@ -392,3 +392,13 @@ footer {
     justify-content: center;
   }
 }
+
+
+/* retirando bug da div dos stories */
+@media (max-width: 634px) {	  
+  .stories-container {
+    width: 100%;
+  }
+}
+
+
