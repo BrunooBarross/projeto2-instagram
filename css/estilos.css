@@ -195,7 +195,6 @@ nav ion-icon {
   background-color: #FAFAFA;
   display: flex;
   align-items: center;
-  padding: 20px;
   border: 1px solid #DBDBDB;
   overflow: hidden;
   margin-top: 50px;
@@ -205,8 +204,7 @@ nav ion-icon {
 .story {
   width: 66px;
   height: 86px;
-  margin-left: 23px;
-
+  margin-left: 14px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -231,6 +229,8 @@ nav ion-icon {
 
 .story span{
   margin-top: 6px;
+  line-height: 14px;
+  font-weight: 400;
 }
 
 .setinha {
@@ -353,6 +353,7 @@ footer {
 
   .stories-container {
     width: 614px;
+    height: 118px;
     background-color: white;
   }
 
